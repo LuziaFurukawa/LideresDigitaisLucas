@@ -1,0 +1,75 @@
+H1{
+  color: red;
+  font-size: 60px;
+}
+img{
+  width: 1000px;
+  height: 500px;
+}
+body{
+  background-image: url(img/raivinha2.jpg);
+}
+ol{
+  font-size: 30px;
+}
+.dicas{
+  font-size: 50px;
+  color: red;
+}
+.texto{
+  font-size: 30px;
+}
+.FALTACM:hover{
+  background-color: green;
+}
+.FALTACM{
+  font-size: 75px;
+  border: 5px solid green;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 40px 15px 15px 20px;
+  background-color: white;
+}
+.FALTAMC:hover{
+  background-color: yellow;
+}
+.FALTAMC{
+  font-size: 75px;
+  border: 5px solid yellow;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 40px 15px 15px 20px;
+  background-color: white;
+}
+.MIRA:hover{
+  background-color: orange;
+}
+.MIRA{
+  font-size: 75px;
+  border: 5px solid orange;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 40px 15px 15px 20px;
+  background-color: white;
+}
+.ANSIEDADE:hover{
+  background-color: gray;
+}
+.ANSIEDADE{
+  font-size: 75px;
+  border: 5px solid gray;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 40px 15px 15px 20px;
+  background-color: white;
+}
+.ESTRESSE:hover{
+    background-color: red;
+}
+.ESTRESSE{
+    font-size: 75px;
+    border: 5px solid red;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 40px 15px 15px 20px;
+    background-color: white;}
